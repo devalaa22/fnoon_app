@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97816374345",
+    "project_id": "test2-d3350",
+    "storage_bucket": "test2-d3350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97816374345:android:fca92aaabcbd9f92e36398",
+        "android_client_info": {
+          "package_name": "com.novelsoft.fnoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97816374345-b102monhvh2a7n9u03p2td84qamla6ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Dk3sXtqpqw-dzNNX2WXP20uP63RK-8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97816374345-b102monhvh2a7n9u03p2td84qamla6ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
